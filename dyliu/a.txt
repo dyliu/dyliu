@@ -1,4 +1,3 @@
 hello,github
 hello,dyliu
 hello,world
-hello,go
